@@ -9,6 +9,16 @@
       "linkedIn": "https://linkedin.com/in/ahmed",
       "github": "https://github.com/ahmed",
       "comment": "Skilled in Node.js"
+    },
+    {
+      "firstName": "Mohamed",
+      "lastName": "Ali",
+      "email": "Mohamed@example.com",
+      "phone": "0123456789",
+      "preferredCallTime": "Afternoon",
+      "linkedIn": "https://linkedin.com/in/Mohamed",
+      "github": "https://github.com/Mohamed",
+      "comment": "Not skilled in Node.js"
     }
   ]
 }
