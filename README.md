@@ -110,7 +110,7 @@ You can use Postman to test the API endpoints.
 
 ## Time Spent
 
-Approximately: **13 hours** (replace with your actual time)
+Approximately: **13 hours**
 
 ## License
 
